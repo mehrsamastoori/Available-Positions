@@ -37,11 +37,11 @@ MAX_JOBS_PER_RUN  = 15     # حداکثر آگهی ارسالی در هر اجر
 
 # ─── کلمات جستجو ──────────────────────────────────────────────────────────────
 SEARCH_QUERIES = [
-    "Junior SEO remote",
-    "Technical SEO remote",
-    "SEO Content Editor remote",
-    "SEO Python remote",
-    "WordPress SEO Specialist remote",
+    "Writer remote",
+    "Assistant remote",
+    "Business Coordinator remote",
+    "Researcher remote",
+    "Account Manager Junior remote",
 ]
 
 # ─── کلمات ممنوعه (Blacklist) ──────────────────────────────────────────────────
@@ -55,6 +55,19 @@ BLACKLIST_KEYWORDS = [
     "agency",
     "full stack",
     "fullstack",
+    "manager",
+    "lead",
+    "head of",
+    "vp of",
+    "vice president",
+    "uk only",
+    "europe only", 
+    "australia only",
+    "must be based in",
+    "unpaid",
+    "internship",
+    "volunteer",
+    "commission only",
 ]
 
 # ══════════════════════════════════════════════════════════════════════════════
